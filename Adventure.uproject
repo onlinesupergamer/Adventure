@@ -6,7 +6,12 @@
 	"Plugins": [
 		{
 			"Name": "FMODStudio",
-			"Enabled": true
+			"Enabled": false
+		},
+		{
+			"Name": "AutoSizeComments",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ae89a2c4ab384de0a3f213b23de324f3"
 		}
 	]
 }
